@@ -46,7 +46,7 @@ header > h1 {
     font-size: 3em;
     padding-top: 30px;
     font-weight: normal;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.249);
 }
 
